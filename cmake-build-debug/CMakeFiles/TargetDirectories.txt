@@ -1,0 +1,3 @@
+C:/1-Studies/database_system/lib/lib2/BufMgr/cmake-build-debug/CMakeFiles/badgerdb_main.dir
+C:/1-Studies/database_system/lib/lib2/BufMgr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/1-Studies/database_system/lib/lib2/BufMgr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
